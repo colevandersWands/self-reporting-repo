@@ -1,0 +1,53 @@
+{
+  "warnings": {},
+  "dirName": "variables",
+  "status": "error",
+  "files": [
+    {
+      "fileName": "empty.js",
+      "status": "no reports",
+      "report": [],
+      "evaluated": "11/12/2019, 10:59:25 AM"
+    },
+    {
+      "fileName": "error.js",
+      "status": "error",
+      "error": {
+        "message": "x is not defined"
+      },
+      "evaluated": "11/12/2019, 10:59:25 AM"
+    },
+    {
+      "fileName": "fail.js",
+      "status": "in progress",
+      "report": [
+        {
+          "✗ it should do a thing": {
+            "operator": "deepStrictEqual",
+            "actual": false,
+            "expected": true
+          }
+        }
+      ],
+      "evaluated": "11/12/2019, 10:59:25 AM"
+    },
+    {
+      "fileName": "invalid.js",
+      "status": "invalid",
+      "report": {
+        "invalidReport": {},
+        "expectedType": "Array",
+        "actualType": "object"
+      },
+      "evaluated": "11/12/2019, 10:59:25 AM"
+    },
+    {
+      "fileName": "pass.js",
+      "status": "passing",
+      "report": [
+        "✔ it should do another thing"
+      ],
+      "evaluated": "11/12/2019, 10:59:25 AM"
+    }
+  ]
+}

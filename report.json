@@ -1,0 +1,26 @@
+{
+  "warnings": {},
+  "repoName": "js-in-node",
+  "status": "error",
+  "directories": [
+    {
+      "dirName": "challenges",
+      "status": "in progress",
+      "files": {
+        "caesarize.js": "in progress",
+        "shuffle.js": "in progress"
+      }
+    },
+    {
+      "dirName": "variables",
+      "status": "error",
+      "files": {
+        "empty.js": "no reports",
+        "error.js": "error",
+        "fail.js": "in progress",
+        "invalid.js": "invalid",
+        "pass.js": "passing"
+      }
+    }
+  ]
+}

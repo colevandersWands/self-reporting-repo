@@ -1,0 +1,32 @@
+{
+  "warnings": {},
+  "dirName": "challenges",
+  "status": "in progress",
+  "files": [
+    {
+      "fileName": "caesarize.js",
+      "status": "in progress",
+      "report": [
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null
+      ],
+      "evaluated": "11/12/2019, 10:59:25 AM"
+    },
+    {
+      "fileName": "shuffle.js",
+      "status": "in progress",
+      "report": [
+        null,
+        null,
+        null,
+        null
+      ],
+      "evaluated": "11/12/2019, 10:59:25 AM"
+    }
+  ]
+}

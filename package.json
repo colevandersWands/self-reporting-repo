@@ -1,0 +1,12 @@
+{
+  "name": "log-catcher",
+  "version": "1.0.0",
+  "description": "simple folder structure for studying little node exercises",
+  "main": "index.js",
+  "scripts": {},
+  "directories": {},
+  "engines": {
+    "node": ">=10.0.0"
+  },
+  "license": "ISC"
+}
